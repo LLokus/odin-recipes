@@ -1,11 +1,14 @@
 .recipe {
     font-size: larger;
     text-align: center;
+    font-style: italic;
+    font-family: 'Brush Script MT', cursive, sans-serif;
 }
 #title {
     font-weight: bolder;
     text-align: center;
     font-size: 32px;
+    font-family: 'Courier New', monospace, sans-serif;
 }
 .name {
     font-size: 48px;
