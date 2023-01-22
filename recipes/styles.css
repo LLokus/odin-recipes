@@ -2,12 +2,12 @@
     font-size: 48px;
     text-align: center;
 }
+.container{
+    text-align: center;
+}
 
 .ingredients,
 .recipe {
     display: inline-block;
     text-align: left;
-}
-.container{
-    text-align: center;
 }
