@@ -1,0 +1,13 @@
+.recipe {
+    font-size: larger;
+    text-align: center;
+}
+#title {
+    font-weight: bolder;
+    text-align: center;
+    font-size: 32px;
+}
+.name {
+    font-size: 48px;
+    text-align: center;
+}
