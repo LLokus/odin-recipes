@@ -10,4 +10,14 @@
 .recipe {
     display: inline-block;
     text-align: left;
+    background-color: rgb(219, 201, 178);
+}
+.center{
+    text-align: center;
+}
+.pic{
+    margin: auto;
+    display: block;
+    height: auto;
+    width: 500px;
 }
